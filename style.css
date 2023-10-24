@@ -1,1 +1,48 @@
+body {
+  background-image: url(https://res.cloudinary.com/do4qlpmbv/image/upload/v1694867558/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842_gk2wle.jpg);
+  padding: 20px;
+  font-family: sans-serif;
+}
 
+h1,
+h2,
+p {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.menu {
+  width: 80%;
+  background-color: rgb(143, 207, 159);
+
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+.name,
+.dessert {
+  text-align: left;
+
+}
+
+.price {
+  text-align: right;
+}
+
+.items {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 11px;
+  padding: 50px;
+}
